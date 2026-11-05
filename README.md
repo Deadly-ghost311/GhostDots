@@ -79,10 +79,10 @@ Gmail natively supports three powerful normalization rules that route directly t
 ### 📱 Android APK Screenshots
 
 <div align="center">
-  <img src="assets/screenshots/android-create.png" alt="Android Create Tab" width="23%" />
-  <img src="assets/screenshots/android-explorer.png" alt="Android Explorer Tab" width="23%" />
-  <img src="assets/screenshots/android-vault.png" alt="Android Vault Tab" width="23%" />
-  <img src="assets/screenshots/android-qr.png" alt="Android QR Transfer" width="23%" />
+  <img src="assets/Screenshot_20261106-033633_Dots.png" alt="Android Create Tab" width="23%" />
+  <img src="assets/Screenshot_20261106-033715_Dots.png" alt="Android Explorer Tab" width="23%" />
+  <img src="assets/Screenshot_20261106-033751_Dots.png" alt="Android Vault Tab" width="23%" />
+  <img src="assets/Screenshot_20261106-033944_Dots.png" alt="Spam & Security" width="23%" />
 </div>
 
 ---
