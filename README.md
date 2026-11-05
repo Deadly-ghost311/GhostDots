@@ -71,7 +71,7 @@ Gmail natively supports three powerful normalization rules that route directly t
 
 | 🖥️ **Desktop Web Studio (Obsidian Dark)** | ☀️ **Desktop Web Studio (Warm Ceramic Light)** |
 | :---: | :---: |
-| ![Studio Dark Mode](assets/Screenshot_20261106-032015_Dots.png) | ![Studio Light Mode](assets/Screenshot_20261106-032055_Dots.png) |
+| ![Studio Dark Mode](assets/Screenshot_20261106-032015_Dots.png) | ![Studio Light Mode](assets/Screenshot_20261106-032027_Dots.png) |
 | *Dual-panel Instant Dispenser & Interactive Keycap Dot Playground* | *High-contrast Alabaster Ceramic theme for daylight legibility* |
 
 </div>
